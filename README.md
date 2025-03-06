@@ -44,21 +44,4 @@ O código também inclui funções para:
 * Criar clientes e contas.
 * Listar contas.
 
-## Observações
 
-* O sistema não possui persistência de dados, ou seja, os dados são perdidos ao encerrar o programa.
-* O sistema não possui tratamento de erros robusto, como validação de entradas e tratamento de exceções.
-
-## Melhorias futuras
-
-* Implementar persistência de dados usando um banco de dados ou arquivos.
-* Adicionar mais tipos de contas, como conta poupança.
-* Implementar mais tipos de transações, como transferências e pagamentos.
-* Adicionar autenticação de usuários.
-* Melhorar a interface do usuário.
-* Adicionar testes unitários.
-* Melhorar o tratamento de erros.
-* Permitir que o cliente escolha a conta ao realizar transações.
-* Adicionar limite de valor para depósito.
-* Adicionar taxas para transações.
-* Implementar uma interface gráfica.
